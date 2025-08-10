@@ -263,7 +263,7 @@ echo "🗑️ Queue $QUEUE_NAME deleted successfully."
 
 ```bash
 # Clone the repository
-git clone https://github.com/atulkamble/aws-sqs-messaging-project.git
+git clone https://github.com/SalunkeSneha/aws-sqs-messaging-demo
 cd aws-sqs-messaging-project
 
 # Step 1: Create the Queue
